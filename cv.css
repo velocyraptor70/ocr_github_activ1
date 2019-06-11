@@ -1,0 +1,21 @@
+h1
+{
+    text-align:center;
+}
+
+h3
+{
+	text-decoration: underline;
+}
+
+#block1
+{
+	border: 2px blue outset;
+	border-radius: 10px;
+	
+}	
+
+a:hover
+{
+   text-decoration: black wavy underline;
+}

@@ -8,6 +8,11 @@ h3
 	text-decoration: underline;
 }
 
+body
+{
+    background: url("image/big_blue.jpg") fixed;
+}
+
 #block1
 {
 	border: 2px blue outset;
